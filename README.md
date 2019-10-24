@@ -1,1 +1,1 @@
-# EXE6
+# Exercise06
